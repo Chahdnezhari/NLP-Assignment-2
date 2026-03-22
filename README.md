@@ -12,4 +12,5 @@ This project compares three models for sentiment classification on the IMDB data
 - CNN: 0.8909
 
 ## Conclusion
-The baseline model achieved the best performance, showing that traditional NLP techniques remain highly effective for this task.
+Baseline performed slightly better than deep learning models,
+likely due to dataset simplicity and limited epochs.
