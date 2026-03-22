@@ -1,0 +1,4 @@
+Model,Accuracy
+Baseline,0.895
+LSTM,0.8885
+CNN,0.8909
